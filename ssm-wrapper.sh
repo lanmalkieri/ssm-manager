@@ -2,8 +2,7 @@
 #---------------------------------------------------#  
 # This script is designed around managing configs in 
 # SSM via local YML files that are managed through
-# source control. On commit this script is run against 
-# dev and prod accounts
+# source control.
 #---------------------------------------------------#  
 set -e
 
