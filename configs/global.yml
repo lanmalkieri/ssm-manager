@@ -1,0 +1,6 @@
+global:
+    config1: "test1.com"
+    config2: "test2.com"
+    config3: "audience1"
+    service1: 
+        service_config1: "test123"
