@@ -22,7 +22,7 @@ setup(){
     if [[ ${environment} == dev ]]; then
         working_files=(development.yml staging.yml global.yml)
     elif [[ ${environment} == prod ]]; then
-        working_files=(prod.yml global)
+        working_files=(prod.yml global.yml)
     fi
 }
 setup_params(){
